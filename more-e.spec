@@ -1,4 +1,4 @@
-%define rel 3
+%define rel 4
 %define name    more-e
 %define version 0.1
 %define release %mkrel %{rel}
