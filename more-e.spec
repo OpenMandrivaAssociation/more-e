@@ -81,3 +81,32 @@ rm -fr $RPM_BUILD_ROOT
 #%{prefix}/X11R6/share/enlightenment/themes/nebulongalaticserenity
 %{prefix}/X11R6/share/enlightenment/themes/xanalloy
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1-5mdv2011.0
++ Revision: 620393
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0.1-4mdv2010.0
++ Revision: 430090
+- rebuild
+
+* Thu Jan 03 2008 Olivier Blin <oblin@mandriva.com> 0.1-3mdv2008.1
++ Revision: 140955
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+    - import more-e
+
+
+* Tue Jun 06 2006 Charles A Edwards <eslrahc@mandriva.org> 0.1-3mdv2007.0
+- mkrel
+- rebuild
+
+* Thu Feb 03 2005 Charles A Edwards <eslrahc@mandrake.org> 0.1-2mdk
+- belated bday
+
+* Mon Dec 08 2003 Charles A Edwards <eslrahc@mandrake.org> 0.1-1mdk
+- first mdk pkg
