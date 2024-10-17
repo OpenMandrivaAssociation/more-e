@@ -11,7 +11,7 @@ License:    GPL
 Summary:10 additional themes for Enlightenment
 Group:      Graphical desktop/Enlightenment
 Source:     %name-%version.tar.bz2
-URL:          http://themes.freshmeat.net/browse/60/?topic_id=60
+URL:          https://themes.freshmeat.net/browse/60/?topic_id=60
 BuildRoot:  %_tmppath/%name-%version-%release-root
 Requires:enlightenment >= 0.16
 BuildArchitectures: noarch
